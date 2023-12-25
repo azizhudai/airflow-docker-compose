@@ -56,3 +56,5 @@ Running Airflow, Postgres and Redis programs.
 You can do that:
 
 https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+
+![EF8A5F25-9956-4FDE-B3BD-F0B9D5BE7DC6](https://github.com/azizhudai/airflow-docker/assets/24457063/0721f805-12c4-40af-9210-de6f5b3eea92)
